@@ -314,7 +314,7 @@ body {
 }
 #header:before,
 #header:after {
-  content: "YTT_BLOG";
+  content: "YTT-BLOG";
   position: absolute;
   left: 0;
   right: 0;
